@@ -19,7 +19,9 @@ struct ContentView_Previews: PreviewProvider {
         ContentView()
     }
 }
-
+struct some{
+    
+}
 
 struct someRandomStumm {
     
