@@ -21,7 +21,7 @@ struct ContentView_Previews: PreviewProvider {
 }
 
 struct some {
-    
+  let i = 1
 }
 
 struct someRandomStumm {
