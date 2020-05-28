@@ -29,6 +29,9 @@ struct someRandomStumm {
 }
 
 
+
+
+struct second {}
 struct first {
     
 }
