@@ -20,6 +20,9 @@ struct ContentView_Previews: PreviewProvider {
     }
 }
 
+struct onlyInFinal {
+    
+}
 
 struct someRandomStumm {
     
